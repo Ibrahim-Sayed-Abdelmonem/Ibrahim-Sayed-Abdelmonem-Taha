@@ -37,4 +37,4 @@
   ```bash
   git push origin --delete tagname
 
-  <img src="img.png">
+<img src="img.png">
