@@ -36,3 +36,5 @@
 - **Remotly delete tag:**
   ```bash
   git push origin --delete tagname
+
+  <img src="img.png">
