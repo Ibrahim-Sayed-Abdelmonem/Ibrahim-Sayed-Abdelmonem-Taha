@@ -25,8 +25,9 @@
 - Especially useful when integrating changes from the main branch into your feature branch.
 
 ## How to list tags
- ```bash
-   git push origin --delete branch-name
+- **List tag:**
+  ```bash
+  git push origin --delete branch-name
 
 ## How to delete tag locally and remotely?
 - **Locally delete tag:**
