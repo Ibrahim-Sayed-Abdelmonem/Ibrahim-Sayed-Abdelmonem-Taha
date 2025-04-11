@@ -1,8 +1,7 @@
 ﻿# My project
- - **Locally Remove branches:**
+- **Locally Remove branches:**
   ```bash
   git branch -d branch-name
-
- - **Remotly Remove branches:**
+- **Remotly Remove branches:**
   ```bash
   git branch -d branch-name
